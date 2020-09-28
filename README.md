@@ -6,7 +6,3 @@
 - 🤔 I’m looking for help with Robotics
 - 💬 Ask me about Robotics and Computer Vision
 - 📫 How to reach me: akshay.rao756@gmail.com
-
-
-
-**akshay-rao7/akshay-rao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
