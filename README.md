@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects related to Machine Learning and AI
+- 🔭 I’m currently working on projects related to Computer Vision
 - 🌱 I’m currently learning AI and Robotics
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with Robotics
