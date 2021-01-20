@@ -7,17 +7,9 @@
 
 My name is Akshay Rao and I am currently developing my skills in Artificial Intelligence and Machine Leanring. I'm from Mumbai,India and currently looking for a job. You can find me on [Linkedin](https://www.linkedin.com/in/akshay-rao7/).
 
-ton" type="submit">Post comment (button)</button>
-
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/unicornuirocks.svg)](https://saucelabs.com/u/unicornuirocks)
-
-[![Build Status](https://travis-ci.org/alexwolfe/Buttons.svg?branch=buttons-2)](https://travis-ci.org/alexwolfe/Buttons)
-
-
 <!--
 ## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+<!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 -->
 
 ## 🔧 Technologies & Tools
