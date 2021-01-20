@@ -12,8 +12,12 @@
 - 📫 How to reach me: akshay.rao756@gmail.com
 
 
+I am currently working on projects related to Computer Vision
+Libraries used : OpenCV, YOLO V4,  
 ##### [AI-based-Surveillance-System](https://github.com/akshay-rao7/AI-based-Surveillance-System)
 ##### [AI-based-Traffic-Management-System](https://github.com/akshay-rao7/AI-based-Traffic-Management-System)
+
+
 ##### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning)
 ##### [Arduino](https://github.com/akshay-rao7/Arduino)
 ##### [Dentowash](https://github.com/akshay-rao7/Dentowash)
