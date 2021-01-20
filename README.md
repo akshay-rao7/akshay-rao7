@@ -2,7 +2,7 @@
 
 ## Profile
 ##### [Linkedin](https://www.linkedin.com/in/akshay-rao7/)
-##### [Email me @](mailto:akshay.rao756@gmail.com?subject= Hey!)
+##### [Email me @](mailto:akshay.rao756@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 - 🔭 I’m currently working on projects related to Computer Vision
