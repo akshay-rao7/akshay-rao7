@@ -7,6 +7,13 @@
 
 My name is Akshay Rao and I am currently developing my skills in Artificial Intelligence and Machine Leanring. I'm from Mumbai,India and currently looking for a job. You can find me on [Linkedin](https://www.linkedin.com/in/akshay-rao7/).
 
+ton" type="submit">Post comment (button)</button>
+
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/unicornuirocks.svg)](https://saucelabs.com/u/unicornuirocks)
+
+[![Build Status](https://travis-ci.org/alexwolfe/Buttons.svg?branch=buttons-2)](https://travis-ci.org/alexwolfe/Buttons)
+
+
 <!--
 ## &#x270d; Blog & Writing
 
@@ -42,6 +49,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## :mortar_board: Qualification
 
 ##### [AI ML Certification](https://eportfolio.greatlearning.in/akshay-rao)
+
+## Other Repositories
+
+##### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning) | [Deep-Learning](https://github.com/akshay-rao7/Deep-Learning) | [OpenCV](https://github.com/akshay-rao7/OpenCV) | [Raspberry-Pi](https://github.com/akshay-rao7/Raspberry-Pi) | [Arduino](https://github.com/akshay-rao7/Arduino) | [Python](https://github.com/akshay-rao7/Python) | [Home-Automation](https://github.com/akshay-rao7/Home-Automation) | [Robo-XZ](https://github.com/akshay-rao7/Robo-XZ) | [jokebot](https://github.com/akshay-rao7/jokebot)
 
 
 
@@ -92,59 +103,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Shields: https://shields.io/ -->
 <!-- Git Readme Page: https://github.com/MartinHeinz -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
----
-
-### Hi there 👋
-
-## Profile
-##### [Linkedin](https://www.linkedin.com/in/akshay-rao7/)
-##### [Email me @](mailto:akshay.rao756@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-
-
-- 🔭 I’m currently working on projects related to Computer Vision
-- 🌱 I’m currently learning AI and Robotics
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with Robotics
-- 💬 Ask me about Robotics and Computer Vision
-- 📫 How to reach me: akshay.rao756@gmail.com
-
-
-I am currently working on projects related to Computer Vision
-Libraries used : OpenCV, YOLO V4,  
 
 
 
-
-
-
-
-
-##### [Python](https://github.com/akshay-rao7/Python)
-
-##### [Home-Automation](https://github.com/akshay-rao7/Home-Automation)
-##### [Robo-XZ](https://github.com/akshay-rao7/Robo-XZ)
-##### [jokebot](https://github.com/akshay-rao7/jokebot)
-
-
-Fields of Interest
-##### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning)
-##### [Deep-Learning](https://github.com/akshay-rao7/Deep-Learning)
-###### [OpenCV](https://github.com/akshay-rao7/OpenCV)
-##### [Raspberry-Pi](https://github.com/akshay-rao7/Raspberry-Pi)
-##### [Arduino](https://github.com/akshay-rao7/Arduino)
-
-
-
-
-
-College Project
-
-
-Just for fun project!
-
-
-
-## Certification
 
 
 
