@@ -28,15 +28,15 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ## 🔧 Projects currently working on
 
-##### [AI-based-Surveillance-System](https://github.com/akshay-rao7/AI-based-Surveillance-System) | [AI-based-Traffic-Management-System](https://github.com/akshay-rao7/AI-based-Traffic-Management-System)
+### [AI-based-Surveillance-System](https://github.com/akshay-rao7/AI-based-Surveillance-System) | [AI-based-Traffic-Management-System](https://github.com/akshay-rao7/AI-based-Traffic-Management-System)
 
 ## :bulb: IOT Based Project
 
-##### [Turtle-Tank-Automation-Project](https://github.com/akshay-rao7/Turtle-Tank-Automation-Project)
+### [Turtle-Tank-Automation-Project](https://github.com/akshay-rao7/Turtle-Tank-Automation-Project)
 
 ## :hammer: College Projects
 
-##### [Self-Balancing-Personal-Transporter](https://github.com/akshay-rao7/Self-Balancing-Personal-Transporter) | [Dentowash](https://github.com/akshay-rao7/Dentowash)
+### [Self-Balancing-Personal-Transporter](https://github.com/akshay-rao7/Self-Balancing-Personal-Transporter) | [Dentowash](https://github.com/akshay-rao7/Dentowash)
 
 ## :mortar_board: Qualification
 
@@ -44,7 +44,7 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ## Other Repositories
 
-##### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning) | [Deep-Learning](https://github.com/akshay-rao7/Deep-Learning) | [OpenCV](https://github.com/akshay-rao7/OpenCV) | [Raspberry-Pi](https://github.com/akshay-rao7/Raspberry-Pi) | [Arduino](https://github.com/akshay-rao7/Arduino) | [Python](https://github.com/akshay-rao7/Python) | [Home-Automation](https://github.com/akshay-rao7/Home-Automation) | [Robo-XZ](https://github.com/akshay-rao7/Robo-XZ) | [jokebot](https://github.com/akshay-rao7/jokebot)
+### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning) | [Deep-Learning](https://github.com/akshay-rao7/Deep-Learning) | [OpenCV](https://github.com/akshay-rao7/OpenCV) | [Raspberry-Pi](https://github.com/akshay-rao7/Raspberry-Pi) | [Arduino](https://github.com/akshay-rao7/Arduino) | [Python](https://github.com/akshay-rao7/Python) | [Home-Automation](https://github.com/akshay-rao7/Home-Automation) | [Robo-XZ](https://github.com/akshay-rao7/Robo-XZ) | [jokebot](https://github.com/akshay-rao7/jokebot)
 
 
 
