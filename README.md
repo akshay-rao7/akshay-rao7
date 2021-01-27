@@ -40,7 +40,7 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ## :mortar_board: Qualification
 
-##### [AI ML Certification](https://eportfolio.greatlearning.in/akshay-rao)
+##### [Post Graduate Program in Artificial Intelligence and Machine Learning](https://eportfolio.greatlearning.in/akshay-rao)
 
 ## Other Repositories
 
