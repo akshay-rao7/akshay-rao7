@@ -28,7 +28,7 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ## 🔧 Projects currently working on
 
-### [AI-based-Surveillance-System](https://github.com/akshay-rao7/AI-based-Surveillance-System) | [AI-based-Traffic-Management-System](https://github.com/akshay-rao7/AI-based-Traffic-Management-System)
+### [AI-based-Surveillance-System](https://github.com/akshay-rao7/AI-based-Surveillance-System) | [AI-based-Traffic-Management-System](https://github.com/akshay-rao7/AI-based-Traffic-Management-System) | [AI-based-smart-door-lock-mechanism](https://github.com/akshay-rao7/AI-based-smart-door-lock-mechanism)
 
 ## :bulb: IOT Based Project
 
