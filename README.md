@@ -40,7 +40,7 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ## :bullettrain_front: Deep Learning
 
-[Digit-MNIST](https://github.com/akshay-rao7/Deep-Learning/blob/main/CNN_Basics_MNIST.ipynb)
+### [Digit-MNIST](https://github.com/akshay-rao7/Deep-Learning/blob/main/CNN_Basics_MNIST.ipynb)
 
 
 ## :mortar_board: Qualification
