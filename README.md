@@ -37,7 +37,6 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ### [Digit-MNIST](https://github.com/akshay-rao7/Deep-Learning/blob/main/CNN_Basics_MNIST.ipynb)
 
-
 ## :mortar_board: Qualification
 
 ### [Post Graduate Program in Artificial Intelligence and Machine Learning (2020-2022)](https://eportfolio.greatlearning.in/akshay-rao)
