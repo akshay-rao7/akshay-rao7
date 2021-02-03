@@ -21,6 +21,10 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+## :hammer: Repositories
+
+### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning) 
+
 ## 🔧 Projects currently working on
 
 ### [AI-based-Surveillance-System](https://github.com/akshay-rao7/AI-based-Surveillance-System) | [AI-based-Traffic-Management-System](https://github.com/akshay-rao7/AI-based-Traffic-Management-System) | [AI-based-smart-door-lock-mechanism](https://github.com/akshay-rao7/AI-based-smart-door-lock-mechanism)
