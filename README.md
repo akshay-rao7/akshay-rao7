@@ -7,6 +7,9 @@
 
 My name is Akshay Rao and I am currently developing my skills in Artificial Intelligence and Machine Leanring. I have around 6+ years of experience in Robotics, Industrial Automation and US Healthcare. I'm from Mumbai,India and currently looking for a job. You can find me on [Linkedin](https://www.linkedin.com/in/akshay-rao7/).
 
+[Video Resume](https://www.youtube.com/watch?v=xbpIqQB-tzo)
+
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
