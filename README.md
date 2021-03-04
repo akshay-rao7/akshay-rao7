@@ -50,7 +50,7 @@ My name is Akshay Rao and I am currently developing my skills in Artificial Inte
 
 ## Other Repositories
 
-### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning) | [Deep-Learning](https://github.com/akshay-rao7/Deep-Learning) | [OpenCV](https://github.com/akshay-rao7/OpenCV) | [Raspberry-Pi](https://github.com/akshay-rao7/Raspberry-Pi) | [Arduino](https://github.com/akshay-rao7/Arduino) | [Python](https://github.com/akshay-rao7/Python) | [Home-Automation](https://github.com/akshay-rao7/Home-Automation) | [Robo-XZ](https://github.com/akshay-rao7/Robo-XZ) | [jokebot](https://github.com/akshay-rao7/jokebot)
+### [Machine-Learning](https://github.com/akshay-rao7/Machine-Learning) | [Deep-Learning](https://github.com/akshay-rao7/Deep-Learning) | [OpenCV](https://github.com/akshay-rao7/OpenCV) | [Raspberry-Pi](https://github.com/akshay-rao7/Raspberry-Pi) | [Arduino](https://github.com/akshay-rao7/Arduino) | [Python](https://github.com/akshay-rao7/Python) | [Home-Automation](https://github.com/akshay-rao7/Home-Automation) | [Robo-XZ](https://github.com/akshay-rao7/Robo-XZ) | [jokebot](https://github.com/akshay-rao7/jokebot) | [OCR](https://github.com/akshay-rao7/OpenCV-OCR)
 
 
 
